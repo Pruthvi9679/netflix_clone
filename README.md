@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/77886136/164340853-d338aced-87bf-4413-8641-fbd89e3e5ed4.png)
+![Screenshot](https://user-images.githubsercontent.com/C:\Users\ASUS\OneDrive\Pictures\Screenshots)
 
 The project is still in progress.
 More pages will be added soon. 
