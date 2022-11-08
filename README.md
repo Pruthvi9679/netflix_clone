@@ -2,8 +2,6 @@
 
 A new Flutter project.
 
-![Screenshot (94)](https://user-images.githubusercontent.com/77886136/164340853-d338aced-87bf-4413-8641-fbd89e3e5ed4.png)
-
 The project is still in progress.
 More pages will be added soon. 
 
